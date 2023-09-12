@@ -10,7 +10,6 @@ Je code principalement en Python, HTML, CSS, JavaScript, PHP ainsi qu'en SQL. Je
 
 <img src="images/python.svg" width="30" alt="python"> <img src="images/html5.svg" width="30" alt="html5"> <img src="images/css3.svg" width="30" alt="css3"> <img src="images/javascript.svg" width="30" alt="javascript"> <img src="images/php.svg" width="30" alt="php"> <img src="images/mysql.svg" width="30" alt="mysql">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxencevdg&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Sur quoi je travaille 👨‍💻
 Actuellement je travaille à l'élaboration de mon portfolio qui devrait être publié avant 2024 (j'espère qu'il n'y aura pas de retard 🤞). De plus, j'ai différents projets scolaires qui devraient voir le jour dans les mois à venir. J'espère que vous apprécierez le travail fourni !
