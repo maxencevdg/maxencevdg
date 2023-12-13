@@ -12,8 +12,11 @@ Je code principalement en Python, HTML, CSS, JavaScript, PHP ainsi qu'en SQL. Je
 
 
 ## Sur quoi je travaille 👨‍💻
-Actuellement je travaille à l'élaboration de mon portfolio qui devrait être publié avant 2024 (j'espère qu'il n'y aura pas de retard 🤞). De plus, j'ai différents projets scolaires qui devraient voir le jour dans les mois à venir. J'espère que vous apprécierez le travail fourni !
+Actuellement je travaille à l'élaboration de projets afin d'enrichir mon Portfolio. De plus, j'ai différents projets scolaires qui devraient voir le jour dans les mois à venir. J'espère que vous apprécierez le travail fourni !
 
+
+## Portfolio
+Voici le lien de mon portfolio : [link](maxence-vandeghen.fr)
 
 ## Contact 📩
 Si vous souhaitez me contacter :
